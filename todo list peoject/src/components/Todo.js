@@ -169,10 +169,15 @@ export default function Todo({ todo, handleCheck }) {
                   textAlign: "right",
                   textDecoration: todo.isCompleted ? "line-through" : "none",
                 }}
+                className="todo-title"
               >
                 {todo.title}
               </Typography>
-              <Typography variant="h6" sx={{ textAlign: "right" }}>
+              <Typography
+                className="todo-details"
+                variant="h6"
+                sx={{ textAlign: "right" }}
+              >
                 {todo.details}
               </Typography>
             </Grid>
@@ -181,6 +186,7 @@ export default function Todo({ todo, handleCheck }) {
               display={"flex"}
               justifyContent={"space-around"}
               alignItems={"center"}
+              className="icon-div"
             >
               {/* Action Buttons */}
               <IconButton

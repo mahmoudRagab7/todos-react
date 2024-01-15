@@ -96,7 +96,11 @@ export default function TodoList() {
         style={{ maxHeight: "90vh", overflow: "scroll" }}
       >
         <CardContent>
-          <Typography variant="h1" style={{ fontWeight: "bold" }}>
+          <Typography
+            variant="h1"
+            style={{ fontWeight: "bold" }}
+            className="card-title"
+          >
             مهامي
           </Typography>
           <Divider />

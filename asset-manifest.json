@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/todos-react/static/css/main.28e64705.css",
-    "main.js": "/todos-react/static/js/main.28cb14ae.js",
+    "main.css": "/todos-react/static/css/main.5179ad6c.css",
+    "main.js": "/todos-react/static/js/main.03c8a0f2.js",
     "static/js/787.c6491ea5.chunk.js": "/todos-react/static/js/787.c6491ea5.chunk.js",
     "static/media/Alexandria-Bold.ttf": "/todos-react/static/media/Alexandria-Bold.0cf36a1f1e325bcf6dcf.ttf",
     "static/media/Alexandria-Black.ttf": "/todos-react/static/media/Alexandria-Black.6ae708e765675e6b0e46.ttf",
     "static/media/Alexandria-Light.ttf": "/todos-react/static/media/Alexandria-Light.38ea9ca48ff224061348.ttf",
     "static/media/Alexandria-Regular.ttf": "/todos-react/static/media/Alexandria-Regular.4535b8eea67a5b9234dc.ttf",
     "index.html": "/todos-react/index.html",
-    "main.28e64705.css.map": "/todos-react/static/css/main.28e64705.css.map",
-    "main.28cb14ae.js.map": "/todos-react/static/js/main.28cb14ae.js.map",
+    "main.5179ad6c.css.map": "/todos-react/static/css/main.5179ad6c.css.map",
+    "main.03c8a0f2.js.map": "/todos-react/static/js/main.03c8a0f2.js.map",
     "787.c6491ea5.chunk.js.map": "/todos-react/static/js/787.c6491ea5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.28e64705.css",
-    "static/js/main.28cb14ae.js"
+    "static/css/main.5179ad6c.css",
+    "static/js/main.03c8a0f2.js"
   ]
 }
